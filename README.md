@@ -14,4 +14,7 @@
 <h3><a href = "https://github.com/YaakovBaker/Rock-Paper-Scissors/blob/main/rpsgame/src/main/java/game/rps/project/rpsgame/RockPaperScissors.java"><Strong>RockPaperScissorsRunner.java</Strong></a></h3>
 <p><br>• <i>RockPaperScissors.java</i> is an object to be constructed by my runner class. This object contains logic for printing out the rules and starting the game as well as private methods to help make the code cleaner inside the game method. rules() simply prints out the rules of the game and game() contains the real stuff like the game creation and logic. game() begins by constructing a <b>Scanner</b> object from <b>java.util.Scanner</b> to read user input like their choice of rock, paper, or scissors and end to stop the game. The program then prints out the iconic phrases of "Rock! Paper! Scissors! Shoot!" with a slight delay to each print of those words like one does when actually playing rock, paper, scissors. The user then inputs their choice and the program randomly picks one of the options: rock, paper, scissors. Then with some basic logic it determines the winner and awards that player with a point. Once a player wins the game ends and a different message is printed out depending on who won.</P>
 
+
+
+
 <p>There are a few kinks to the programs as I haven't started the second RockPaperScissors game yet. I plan to improve the logic and flow of these classes when I have sufficient free time, but I have more important priorities at the moment.</p>
